@@ -12,7 +12,7 @@ seo:
 
 # My First Page
 
-Here is some content.
+Here is some content.2
 
 - This is a list item
 - Another one
