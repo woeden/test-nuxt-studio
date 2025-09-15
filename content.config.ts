@@ -5,6 +5,10 @@ export default defineContentConfig({
         pages: defineCollection({
             type: 'page',
             source: 'pages/**/*.md'
+        }),
+        bands: defineCollection({
+            type: 'data',
+            source: 'bands/**/*.yaml'
         })
     }
 })
